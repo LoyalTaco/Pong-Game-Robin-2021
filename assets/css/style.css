@@ -6,7 +6,7 @@
 html, body {
     width: 100%;
     height: 100%;
-    background-color: grey;
+    background-color: white;
 }
 
 canvas {
@@ -23,5 +23,5 @@ canvas#pong {
 
 canvas#hud {
     z-index: 1;
-    background: green;
+    background: black;
 }

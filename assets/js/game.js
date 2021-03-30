@@ -1,7 +1,7 @@
 class Game{
     constructor( ){
 
-        thix.canvas = document.getElementById('pong');
+        this.canvas = document.getElementById('pong');
         this.context = this.canvas.getContext('2d');
 
 
